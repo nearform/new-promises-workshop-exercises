@@ -1,0 +1,8 @@
+{
+  "private": true,
+  "dependencies": {
+    "autocannon": "^7.6.0",
+    "tap": "^15.1.6"
+  },
+  "name": "new-promises-workshop-exercises"
+}
