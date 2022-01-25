@@ -4,5 +4,8 @@
     "autocannon": "^7.6.0",
     "tap": "^15.1.6"
   },
-  "name": "new-promises-workshop-exercises"
+  "name": "new-promises-workshop-exercises",
+  "devDependencies": {
+    "undici": "^4.12.2"
+  }
 }
