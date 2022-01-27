@@ -7,6 +7,7 @@ const sleep = promisify(setTimeout)
 
 async function getData () {
   await sleep(5000)
+  console.log('still running getData...')
   return 'this is the data'
 }
 
